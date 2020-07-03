@@ -37,6 +37,19 @@ Results of the trained models were calculated with Frechet Inception Distance, F
 
 </div>
 
+
+### Desktop Application
+
+![](assets/0.png)
+
+![](assets/1.png)
+
+![](assets/2.png)
+
+![](assets/3.png)
+
+![](assets/4.png)
+
 ## Authors
 
 [Nihad Guluzade](https://github.com/nihadguluzade)
