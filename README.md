@@ -4,7 +4,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jfwid1aNUpTlVVuLSawI1n7LLEYTweAP?usp=sharing)
 
-[Paper](https://drive.google.com/file/d/1s392oImT6xkAHWeqo9Dpo0tzPyTtCHfd/view?usp=sharing)
+[Paper](https://drive.google.com/file/d/1W_4d3xbCAv5mC64YAtd9-UBDYkdMX58K/view?usp=sharing)
 
 </div>
 
@@ -48,11 +48,8 @@ Results of the trained models were calculated with Frechet Inception Distance, F
 
 ![](assets/4.png)
 
-## Authors
+### Authors
 
 [Nihad Guluzade](https://github.com/nihadguluzade)
 
 [Kamran Balayev](https://github.com/Kamran017)
-
-## Forked from
-[Greg (Grzegorz) Surma](https://github.com/gsurma)
