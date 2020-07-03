@@ -1,5 +1,3 @@
-# Synthetic-Data-Generation
-
 # <h1 align=center>Creating a General Data set from Different Image Sets Using GAN</h1>
 
 <div style="text-align: center;">
